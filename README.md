@@ -4,7 +4,7 @@
   <h1 align="center">RealEstate Landing Page</h1>
 
   <h3 align="center">
-  This is a landing page for weather forecast built with JavaScript, CSS and React-Icon library.
+  This is a landing page for RealEstate with JavaScript, CSS and React-Icon library.
   </h3>
  <br />
  
